@@ -8,6 +8,12 @@ The macros in this repository are designed to create visualizations of large set
 
 A [FIJI](https://fiji.sc/) Macro is a script written in a language called Fiji Macro Language, which is based on JavaScript. Fiji is an open-source image processing package based on [ImageJ2](https://imagej.net) that is widely used in scientific research, particularly in the fields of biology and medicine. It is built on top of the ImageJ software, providing additional features and tools for image analysis.
 
+
+<p align="center">
+    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/measurements_AVG_Color.jpg" alt="logo" width="" />
+</p>
+
+
 Fiji Macros allow users to automate repetitive tasks, perform complex image processing operations, and analyse data in a more efficient and reproducible manner. These macros can be used to control various aspects of Fiji, including image acquisition, processing, and analysis.
 
 ----
@@ -21,6 +27,12 @@ It measures stv/med/dev of Brightness, Hue and Saturation statistics of every im
 ### * Change-size
 Change size of images, replacing the file. This macro batch processes all the files in a folder/subfolders.
 
+
+----
+
+<p align="center">
+    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/saturation_median vs hue_median(SatSorted).jpg" alt="logo" width="300" />
+</p>
 
 ----
 
