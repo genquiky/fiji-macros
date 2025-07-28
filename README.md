@@ -16,18 +16,27 @@ A [FIJI](https://fiji.sc/) Macro is a script written in a language called Fiji M
 <h6>(Above an example of pictures taken in 2021 showing the color palette, from January to December)</h6>
 
 Fiji Macros allow users to automate repetitive tasks, perform complex image processing operations, and analyse data in a more efficient and reproducible manner. These macros can be used to control various aspects of Fiji, including image acquisition, processing, and analysis.
+This scripts includes error checking to handle any issues with loading images from subfolders and garbage management.
 
 ----
 
-### * Average Color 2.0
+### * Average Color 3.1
 This macro processes the average color of an image.
-
-### * Bright-Hue-Sat
-It measures stv/med/dev of Brightness, Hue and Saturation statistics of every image and exports to a .txt file.
 
 ### * Change-size
 Change size of images, replacing the file. This macro batch processes all the files in a folder/subfolders.
 
+### * Image Measure 5.1
+It measures stv/med/dev of Brightness, Hue and Saturation statistics of every image and exports to a .txt file.
+
+### * Image Montage 2.2
+Create a montage of images with customizable dimensions, scaling, labeling, and color options. The scaled images are then aligned next to each other to form a composite montage. 
+
+### * Image Plot 1.1
+Visualize collections of images using a custom UI.
+
+### * Image Slice 2.1
+Samples image slices from image sets, composites them, and optionally animates the results.
 
 ----
 
