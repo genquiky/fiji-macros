@@ -13,6 +13,7 @@ A [FIJI](https://fiji.sc/) Macro is a script written in a language called Fiji M
     <img src="https://github.com/genquiky/fiji-macros/blob/main/items/measurements_AVG_Color.jpg" alt="logo" width="" />
 </p>
 
+<h6>(Above an example of pictures taken in 2021 showing the color palette, from January to December)</h6>
 
 Fiji Macros allow users to automate repetitive tasks, perform complex image processing operations, and analyse data in a more efficient and reproducible manner. These macros can be used to control various aspects of Fiji, including image acquisition, processing, and analysis.
 
