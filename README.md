@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/fiji-logo.jpg" alt="logo" width="170" />
+    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/fiji-logo.jpg" alt="logo" width="140" />
 </p>
 
 ### FIJI Macros for Visualization
@@ -41,7 +41,7 @@ Samples image slices from image sets, composites them, and optionally animates t
 ----
 
 <p align="center">
-    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/saturation_median vs hue_median(SatSorted).jpg" alt="logo" width="300" /></p>
+    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/saturation_median vs hue_median(SatSorted).jpg" alt="logo" width="250" /></p>
 <h6>
     <p align="center"> Saturation median vs Hue median from pictures taken on 2023</p>
 </h6>
