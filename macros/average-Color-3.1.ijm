@@ -1,4 +1,4 @@
-// "Average Color 2.0"
+// "Average Color 3.1"
 //
 // This macro batch processes all the files in a folder/subfolders
 //Selecting the ROI of all images and then saving a copy in PNG format.
