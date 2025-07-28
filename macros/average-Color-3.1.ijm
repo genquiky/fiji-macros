@@ -3,7 +3,7 @@
 // This macro batch processes all the files in a folder/subfolders
 //Selecting the ROI of all images and then saving a copy in PNG format.
 // Also skip non-JPG-TIFF without stopping the macro.
-// Modified by @NUNEZ.VIZ 2021
+
  
 print("\\Clear");
 dir = getDirectory("Choose a Directory ");
