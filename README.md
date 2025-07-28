@@ -4,7 +4,7 @@
 
 ### FIJI Macros for Visualization
 
-The macros in this repository are designed to create visualizations of large sets of images.
+The macros in this repository are designed to create simple visualizations of large sets of images.
 
 A [FIJI](https://fiji.sc/) Macro is a script written in a language called Fiji Macro Language, which is based on JavaScript. Fiji is an open-source image processing package based on [ImageJ2](https://imagej.net) that is widely used in scientific research, particularly in the fields of biology and medicine, providing additional features and tools for image analysis.
 
