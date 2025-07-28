@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/fiji-logo.jpg" alt="logo" width="170" />
+</p>
+
 ### FIJI Macros
 
 A [FIJI](https://fiji.sc/) Macro is a script written in a language called Fiji Macro Language, which is based on JavaScript. Fiji is an open-source image processing package based on [ImageJ2](https://imagej.net) that is widely used in scientific research, particularly in the fields of biology and medicine. It is built on top of the ImageJ software, providing additional features and tools for image analysis.
@@ -10,3 +14,6 @@ Fiji Macros allow users to automate repetitive tasks, perform complex image proc
     <a href="https://github.com/genquiky/fiji-macros/commits/main"><img src="https://img.shields.io/github/last-commit/genquiky/fiji-macros" alt="last commit"></a>
     <a href="https://github.com/genquiky/fiji-macros/commits/main"><img src="https://img.shields.io/github/commit-activity/m/genquiky/fiji-macros" alt="commit activity"></a>
 </p>
+
+
+https://github.com/genquiky/fiji-macros/blob/main/items/fiji-logo.jpg
