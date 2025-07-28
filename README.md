@@ -41,8 +41,11 @@ Samples image slices from image sets, composites them, and optionally animates t
 ----
 
 <p align="center">
-    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/saturation_median vs hue_median(SatSorted).jpg" alt="logo" width="300" />
-</p>
+    <img src="https://github.com/genquiky/fiji-macros/blob/main/items/saturation_median vs hue_median(SatSorted).jpg" alt="logo" width="300" /></p>
+<h6>
+    <p align="center"> Hue vs Saturation from pictures taken on 2023</p>
+</h6>
+
 
 ----
 
